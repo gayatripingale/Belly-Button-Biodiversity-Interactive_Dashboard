@@ -14,5 +14,8 @@ function updateMetaData(data){
     h6tag.append(h6Text);
     PANEL.appendChild(h6tag);
   }
+}
 
+function buildCharts(sampleData,otuData){
+  
 }
